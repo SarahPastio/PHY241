@@ -1,3 +1,7 @@
+"""
+PHY 241 Homework 7
+"""
+
 from gaussxw import gaussxwab, gaussxw
 from numpy   import pi, exp, arange
 from pylab   import plot, scatter, show, xlabel, ylabel, title
