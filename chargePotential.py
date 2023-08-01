@@ -1,3 +1,8 @@
+"""
+PHY 241 Homework 4
+
+"""
+
 from numpy import empty,zeros,max
 from pylab import imshow,gray,show,colorbar,contour
 import timeit
@@ -8,7 +13,7 @@ target = 1e-6   # Target accuracy
 alpha = 1.9     # SOR mixing parameter
 
 
-eps0 = 1.0      # the permittivity of empty sapce
+eps0 = 1.0      # the permittivity of empty space
 h = 100/M           # grid spacing
 
 # Create arrays to hold potential values
