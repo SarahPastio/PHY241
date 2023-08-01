@@ -1,3 +1,7 @@
+"""
+PHY 241 Homework 9
+"""
+
 from random import random
 from math   import log
 from numpy  import arange, sort, empty, arange
