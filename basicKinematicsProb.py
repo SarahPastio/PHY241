@@ -8,7 +8,7 @@ Created on Thu Jan 27 10:01:29 2022
 
 from math import sqrt, factorial
 
-def question1():
+def dropTime():
     """
     Problem-A: Another ball dropped from a tower
     
@@ -24,7 +24,7 @@ def question1():
     print("The ball takes",t,"seconds to hit the ground.")
     
     
-def question2(L):
+def madelungCon(L):
     """
     Write a program to calculate and print the Madelung constant for sodium chloride. Use as
     large a value of L as you can, while still having your program run in reasonable time—say in a
@@ -45,7 +45,7 @@ def question2(L):
     print("M =", M)
     
  
-# Question 3
+# Binomial, Pascal, Probability
 def binomial(n,k):
     if n>=k:
         if k >= 1:
@@ -74,9 +74,3 @@ def probability():
     print("The probability that the coin will come up heads exactly 60 times is",p60,".")
     print("The probability that the coin will come up heads more than 60 times is",p60_100,".")
         
-    
-    
-    
-    
-    
-question2(100)
