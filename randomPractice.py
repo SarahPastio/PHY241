@@ -1,3 +1,7 @@
+"""
+PHY 241 Homework 8
+"""
+
 from math import exp
 from random import random
 from pylab import plot,subplot,bar,show, \
