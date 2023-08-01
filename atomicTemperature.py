@@ -1,9 +1,7 @@
-#------------------------------------
-#   Sarah Rogers-Pastio
-#   Homework 6
-#
-#   note: github.com/akels/ComputationalPhysics was used as a resource
-#------------------------------------
+"""
+PHY 241 Homework 6
+github.com/akels/ComputationalPhysics was used as a resource
+"""
 
 from gaussxw import gaussxw
 from numpy   import arange, array, tan, cos, pi, exp
