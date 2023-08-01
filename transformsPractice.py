@@ -1,3 +1,7 @@
+"""
+PHY 241 Homework 10
+"""
+
 from numpy import loadtxt
 from numpy.fft import rfft,irfft
 from scipy.fft import dct,idct
