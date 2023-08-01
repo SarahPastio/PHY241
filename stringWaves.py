@@ -1,3 +1,7 @@
+"""
+PHY 241 Homework 5
+"""
+
 from numpy  import copy,array,zeros,exp,pi,arange,append
 import numpy as np
 from pylab  import plot, xlabel,ylabel,show,legend,ylim,title
